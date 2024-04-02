@@ -1,0 +1,3 @@
+[submodule "coin-packages/Assets/Scripts/Debugging"]
+	path = coin-packages/Assets/Scripts/Debugging
+	url = https://github.com/aghcoin/coinpkg.debugging
